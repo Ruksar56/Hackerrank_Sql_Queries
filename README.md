@@ -1,2 +1,2 @@
 # Hackerrank_Sql_Queries
-SQL problems and solutions
+Solving SQl queries from hackerrank
